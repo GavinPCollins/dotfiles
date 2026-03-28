@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gavincollins11.11@gmail.com
+	name = Gavin Collins
